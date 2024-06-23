@@ -2,6 +2,8 @@
 
 ## About
 
+This repository contains my projects for the Computer Architecture and Operating Systenms course in my Bachelor's degree in Computer Science at the University of Warsaw.
+
 ## How to setup GDB to debug assembly?
 
 In the **~/.bash_aliases** put this:
@@ -34,3 +36,10 @@ Here are the most useful GDB commands:
 - s - runs the next line of the program
 - s N - Runs the next N lines of the program
 - q - quits GDB
+
+## Useful links
+
+Here are the most useful reference sites for programming in NASM:
+ - [Felix Cloutier (instructions reference)](http://www.felixcloutier.com/x86/)
+ - [Linux System Call Table](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
+ - [Understanding CRC](http://www.sunshine2k.de/articles/coding/crc/understanding_crc.html)
